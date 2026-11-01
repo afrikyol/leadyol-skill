@@ -44,6 +44,8 @@ Optional settings: `LEADYOL_PASSWORD` (if the dashboard has a password) and `LEA
 
 Then ask Claude: "Show me my Leadyol overview."
 
+**Tip:** Claude can use the Leadyol tools without opening this skill. To get its step-by-step guide, say so at the start of your request, for example: "First load the leadyol skill, then find…"
+
 ## Example prompts
 
 - Find dentists in Lyon, remove duplicates, find their e-mails, check them and export to Excel.
