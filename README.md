@@ -2,7 +2,7 @@
 
 Find business leads from Claude: by category and city, with website contacts and e-mails, duplicates removed, and an Excel export.
 
-![Leadyol](docs/screenshot.png)
+![Leadyol: connect Claude in one click](docs/screenshot.webp)
 
 ## Open data. Public business information.
 
